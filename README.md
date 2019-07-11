@@ -55,6 +55,6 @@ public class Program
 
 这时打开项目，就可以通过配置Consul中的value值，来配置Asp.Net Core项目了。 
 
-原文地址：https://tech.winton.com/2016/12/configuring-net-core-applications-using-consul/
+**原文地址**：https://tech.winton.com/2016/12/configuring-net-core-applications-using-consul/
 
-官方Demo GitHub地址：https://github.com/wintoncode/Winton.Extensions.Configuration.Consul/tree/master/test/Website
+**官方Demo GitHub地址**：https://github.com/wintoncode/Winton.Extensions.Configuration.Consul/tree/master/test/Website
