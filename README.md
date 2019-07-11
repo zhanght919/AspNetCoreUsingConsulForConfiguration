@@ -5,7 +5,7 @@
 
 因此我们通过Consul在线实时配置，则达到了只更改配置不重启服务即可实时响应的目的。
 
-下面来介绍一下使用 Winton.Extensions.Configuration.Consul 来做配置中心。
+下面来介绍一下使用 **Winton.Extensions.Configuration.Consul** 来做配置中心。
 
 首先，**安装Consul**，具体安装步骤本文就不详细介绍了，当打开 http://127.0.0.1:8500 可以看到Consul的UI界面代表安装成功。
 
